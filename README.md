@@ -1,2 +1,2 @@
 # CA_Django_REST
-Django REST API templates
+Django REST API
